@@ -1,0 +1,45 @@
+body {
+    font-size: 3vw;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+    background-color: #ededed;
+    text-transform: uppercase;
+}
+
+#description {
+    margin-top: 2vh;
+   
+}
+
+.wrapper{
+    max-width: 690px;
+    margin: 0 auto;
+}
+
+#balloon-gallery div{
+    background: #ff3300;
+    height: 121px;
+    width: 119px;
+    text-align: center;
+    color: #ff3300;
+    font-size: 40px;
+    font-family: sans-serif, arial;
+    border-radius: 100%;
+    margin-top: 20px;
+    display: inline-block;
+    /* float: left; */
+    margin: 2.5px 5 px 2.5px 0px;
+}
+
+#balloon-gallery div:nth-child(2n){
+    background: #ffce00;
+    color: #ffce00;
+}
+
+#yay-no-balloons {
+    display:none;
+    color:#ff3300;
+    font-size: 10vw;
+    
+}

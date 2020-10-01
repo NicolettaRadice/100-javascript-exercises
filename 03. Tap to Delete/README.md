@@ -1,3 +1,3 @@
-#Tap to Delete
+# Tap to Delete
 
-What I learnt
+What I learnt: I got more confortable using mouse events

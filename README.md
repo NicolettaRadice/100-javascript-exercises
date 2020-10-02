@@ -6,3 +6,8 @@
  
  
  Day started: 29/09/2020
+ 
+ 01. Click Color Change
+ 02. Simple Animation String
+ 03. Tap to Delete
+ 04. Switch Case (Horoscope)

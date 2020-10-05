@@ -7,8 +7,9 @@
  
  Day started: 29/09/2020
  
- 01. Click Color Change
- 02. Simple Animation String
- 03. Tap to Delete
- 04. Switch Case (Horoscope)
- 05. Random Number (Cards)
+ 01. Click Color Change https://nicolettaradice.github.io/100-javascript-days/01-color-change/
+ 02. Simple Animation https://nicolettaradice.github.io/100-javascript-days/02-simple-animation/
+ 03. Tap to Delete https://nicolettaradice.github.io/100-javascript-days/03-tap-to-delete/
+ 04. Switch Case (Horoscope) https://nicolettaradice.github.io/100-javascript-days/04-switch-case/
+ 05. Random Cards https://nicolettaradice.github.io/100-javascript-days/05-random-cards/
+ 06. Array Methods https://nicolettaradice.github.io/100-javascript-days/06-array-methods/

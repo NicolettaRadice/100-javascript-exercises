@@ -3,12 +3,6 @@ const button = document.getElementById('button')
 var lastIndex = 0;
 
 
-
-
-
-
-
-
 function getNewCard() {
     var theImage = document.getElementById("picture");
     var imgDir = 'carte/';
@@ -22,12 +16,8 @@ function getNewCard() {
         
     theImage.src = imgPath;
     theImage.alt = imgArray[imgIndex];
-    // console.log(imgPath)
 }
 
 button.addEventListener('click', getNewCard)
 
-// getNewCard();
-    // var randomNumber = Math.floor(Math.random() * randomCard.length);
-    // document.getElementById("picture").src = randomCard[randomNumber];
 

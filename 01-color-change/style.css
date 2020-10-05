@@ -1,0 +1,11 @@
+.btn {
+    margin-top: 45vh;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.btn:hover{
+    outline: none;
+}

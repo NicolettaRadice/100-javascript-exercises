@@ -1,0 +1,16 @@
+#target {
+    font-size: 20vw;
+    text-align: center;
+    margin-top: 30vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(115, 182, 245);
+    font-weight: 600;
+}
+
+#target:hover {
+    color: hsl(270, 78%, 44%);
+}
+
+body {
+    background-color: pink;
+}

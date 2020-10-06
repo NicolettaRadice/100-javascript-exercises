@@ -12,3 +12,4 @@
  04. Switch Case (Horoscope) https://nicolettaradice.github.io/100-javascript-days/04-switch-case/
  05. Random Cards https://nicolettaradice.github.io/100-javascript-days/05-random-cards/
  06. Array Methods https://nicolettaradice.github.io/100-javascript-days/06-array-methods/
+ 07. Click and Drag https://nicolettaradice.github.io/100-javascript-days/07-click-drag/

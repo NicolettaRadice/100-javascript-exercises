@@ -1,0 +1,44 @@
+html {
+  box-sizing: border-box;
+  background-size: cover;
+  display: flex;
+  justify-content: left;
+  /* align-items: center; */
+  /* text-align: center; */
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  margin-top: 5vh;
+  margin-left: 5vh;
+  background-color: aquamarine;
+}
+
+.container-fluid {
+  background-color: aquamarine;
+}
+
+h1{
+  margin-bottom: 2vh;
+  font-size: 2vw;
+}
+
+input {
+  width: 20vw;
+  max-width: 20vw;
+  justify-content: left;
+}
+
+p {
+  text-shadow: 10px 10px 0 rgba(0,0,0,0.5);
+  font-size: 12vw;
+  
+}
+
+.hero {
+  /* min-height: 100vh; */
+  /* height: 50vh; */
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  color: rgba(0,0,0,0.7);
+  /* width: 100vw; */
+  cursor: default;
+}

@@ -13,3 +13,5 @@
  05. Random Cards https://nicolettaradice.github.io/100-javascript-days/05-random-cards/
  06. Array Methods https://nicolettaradice.github.io/100-javascript-days/06-array-methods/
  07. Click and Drag https://nicolettaradice.github.io/100-javascript-days/07-click-drag/
+ 08. Local Storage https://nicolettaradice.github.io/100-javascript-days/08-local-storage-event-delegation/
+ 09. Live Type (with Vue.js) https://nicolettaradice.github.io/100-javascript-days/09-live-type/

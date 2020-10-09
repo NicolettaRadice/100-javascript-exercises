@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  margin: 5vw;
+  background-color: yellowgreen;
+  max-width: 100vw;
+  font-size: 5rem;
+}
+
+

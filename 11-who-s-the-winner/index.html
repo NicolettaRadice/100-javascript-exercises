@@ -16,7 +16,7 @@
       <div id="names" class="container" v-if="state">
          <h1>Who's the winner?</h1>
          <div class="input_container">
-            <input type="text" v-model="inputName">
+            <input type="text" placeholder="enter a name" v-model="inputName">
             <button @click="addNameToList">ADD</button>
          </div>
          <div class="error_label" v-if="showError">
@@ -27,7 +27,7 @@
          </div>
          <div v-if="names.length > 1">
             <div class="action_button" @click="showResults">
-               Check the looser
+               Check the winner
             </div>
          </div>
       </div>

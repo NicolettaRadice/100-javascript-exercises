@@ -16,3 +16,4 @@
  08. Local Storage https://nicolettaradice.github.io/100-javascript-days/08-local-storage-event-delegation/
  09. Live Type (with Vue.js) https://nicolettaradice.github.io/100-javascript-days/09-live-type/
  10. Time https://nicolettaradice.github.io/100-javascript-days/10-time/
+ 11. Who's the winner? https://nicolettaradice.github.io/100-javascript-days/11-who-s-the-winner/

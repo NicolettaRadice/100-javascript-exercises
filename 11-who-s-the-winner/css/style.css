@@ -13,7 +13,7 @@ a {
     min-height: 300px;
     width: 360px;
     position: absolute;
-    left: 50%;
+    left: 60%;
     top: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);

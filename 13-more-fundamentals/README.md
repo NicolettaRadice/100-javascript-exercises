@@ -1,6 +1,8 @@
-reference vs copy
-fundamental
+# More Fundamentals
 
-source of bugs
+reference versus copy
+
+from https://javascript30.com/
+
 
 

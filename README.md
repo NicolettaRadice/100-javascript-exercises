@@ -18,3 +18,5 @@
  10. Time https://nicolettaradice.github.io/100-javascript-days/10-time/
  11. Who's the winner? https://nicolettaradice.github.io/100-javascript-days/11-who-s-the-winner/
  12. Arrays https://nicolettaradice.github.io/100-javascript-days/12-Array
+ 13. More Fundamentals https://nicolettaradice.github.io/100-javascript-days/13-more-fundamentals
+ 14. Math Game Addition https://nicolettaradice.github.io/100-javascript-days/14-math-game

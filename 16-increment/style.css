@@ -1,0 +1,123 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #b3c1fd;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	min-height: 100vh;
+	margin-top: 5vh;
+}
+
+h1 {
+	margin-bottom: 2vh;
+	font-size: 1em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	text-align: left;
+	margin-bottom: 10vh;
+}
+
+h3 {
+	text-align: left;
+}
+
+img {
+	width: 100%;
+}
+
+.container {
+	margin-bottom: 5vh;
+}
+
+
+.form-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	padding: 0;
+	margin: 0 auto;
+	list-style: none;
+	margin-bottom: 2vh;
+	width: 60%
+}
+
+.item {
+	/* padding: 5px; */
+	/* width: 70%; */
+	/* height: 150px; */
+	margin-top: 10px;
+	/* line-height: 150px; */
+	color: green;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 0.2vh;
+}
+
+
+#button {
+	background-color: green;
+	border: 0;
+	border-radius: 6px;
+	color: #fff;
+	cursor: pointer;
+	font-family: inherit;
+	font-size: 20px;
+	padding: 8px 30px;
+	margin: 3px;
+	text-transform: uppercase;
+	position: relative;
+	/* width: auto; */
+}
+
+#button:focus {
+	outline: none;
+}
+
+
+
+.course-container {
+	/* padding: 10px; */
+	
+	margin: 0 auto;
+	list-style: none;
+	justify-content: space-around;
+	flex-flow: row wrap;
+	width: 70%;
+	text-align: center;
+	/* background-color: bisque; */
+}
+
+.card-container {
+	border: 1px solid rgb(170, 170, 170);
+	background-color: #fff;
+	width: 40%;
+	height: auto;
+	padding: 20px;
+	margin-top: 10px;
+	color: black;
+	text-align: center;
+	
+}
+
+.courses {
+	align-content: flex-start;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+}
+
+.title {
+	font-size: 1.1em;
+	line-height: 1.2em;
+	margin-left: 2vh;
+}
+
+.description {
+	font-size: 0.9em;
+	line-height: 1.2em;
+	margin-top: -2vh;
+}

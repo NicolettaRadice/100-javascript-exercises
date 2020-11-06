@@ -22,3 +22,4 @@
  14. Math Game Addition https://nicolettaradice.github.io/100-javascript-days/14-math-game
  15. Next next https://nicolettaradice.github.io/100-javascript-days/15-next-next
  16. Increment https://nicolettaradice.github.io/100-javascript-days/16-increment
+ 17. Variables https://nicolettaradice.github.io/100-javascript-days/17-variables

@@ -24,4 +24,5 @@
  16. Increment https://nicolettaradice.github.io/100-javascript-days/16-increment
  17. Variables https://nicolettaradice.github.io/100-javascript-days/17-variables
  18. Random Joke https://nicolettaradice.github.io/100-javascript-days/18-random-joke
- 19. 
+ 19. Battle to Five https://nicolettaradice.github.io/100-javascript-days/19-battle-to-five
+ 20. Slideshow https://nicolettaradice.github.io/100-javascript-days/20-slideshow

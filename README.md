@@ -1,6 +1,4 @@
 # 100-javascript-days
-
- Restarting on 16/12/2020!!!!!
  Coding everyday in Javascript for 100 days
  by Nicoletta Radice
  

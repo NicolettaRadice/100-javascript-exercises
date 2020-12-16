@@ -1,10 +1,12 @@
 # 100-javascript-days
+
+ Restarting on 16/12/2020!!!!!
  Coding everyday in Javascript for 100 days
  by Nicoletta Radice
  
  Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am challenging myself to code in Javascript everyday to refresh and broaden my skills.
  
- Day started: 29/09/2020
+
  
  01. Click Color Change https://nicolettaradice.github.io/100-javascript-days/01-color-change/
  02. Simple Animation https://nicolettaradice.github.io/100-javascript-days/02-simple-animation/

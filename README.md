@@ -1,6 +1,4 @@
 # 100-javascript-days
-
- Restarting on 16/12/2020!!!!!
  Coding everyday in Javascript for 100 days
  by Nicoletta Radice
  
@@ -28,3 +26,7 @@
  18. Random Joke https://nicolettaradice.github.io/100-javascript-days/18-random-joke
  19. Battle to Five https://nicolettaradice.github.io/100-javascript-days/19-battle-to-five
  20. Slideshow https://nicolettaradice.github.io/100-javascript-days/20-slideshow
+ 21. Spinner https://nicolettaradice.github.io/100-javascript-days/21-spinner
+ 22. Another Spinner https://nicolettaradice.github.io/100-javascript-days/22-another-spinner
+ 23. Modal Keyboard Trap https://nicolettaradice.github.io/100-javascript-days/modal-keyboard-trap
+ 

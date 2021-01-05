@@ -2,7 +2,7 @@
  Coding everyday in Javascript for 100 days
  by Nicoletta Radice
  
- Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am challenging myself to code in Javascript everyday to refresh and broaden my skills.
+ Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am challenging myself to code in Javascript as much as I can to refresh and broaden my skills.
  
 
  
@@ -29,4 +29,5 @@
  21. Spinner https://nicolettaradice.github.io/100-javascript-days/21-spinner
  22. Another Spinner https://nicolettaradice.github.io/100-javascript-days/22-another-spinner
  23. Modal Keyboard Trap https://nicolettaradice.github.io/100-javascript-days/modal-keyboard-trap
- 
+ 24. Find Headings https://nicolettaradice.github.io/100-javascript-days/find-headings
+ 25. Animated Nav https://nicolettaradice.github.io/100-javascript-days/animated-nav

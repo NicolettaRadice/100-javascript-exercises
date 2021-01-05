@@ -1,4 +1,4 @@
-# 100-javascript-days
+# 100-javascript-exercises
  Coding everyday in Javascript for 100 days
  by Nicoletta Radice
  

@@ -28,6 +28,7 @@
  20. Slideshow https://nicolettaradice.github.io/100-javascript-days/20-slideshow
  21. Spinner https://nicolettaradice.github.io/100-javascript-days/21-spinner
  22. Another Spinner https://nicolettaradice.github.io/100-javascript-days/22-another-spinner
- 23. Modal Keyboard Trap https://nicolettaradice.github.io/100-javascript-days/modal-keyboard-trap
- 24. Find Headings https://nicolettaradice.github.io/100-javascript-days/find-headings
- 25. Animated Nav https://nicolettaradice.github.io/100-javascript-days/animated-nav
+ 23. Modal Keyboard Trap https://nicolettaradice.github.io/100-javascript-days/23-modal-keyboard-trap
+ 24. Find Headings https://nicolettaradice.github.io/100-javascript-days/24-find-headings
+ 25. Animated Nav https://nicolettaradice.github.io/100-javascript-days/25-animated-nav
+ 26. Pop up Video https://nicolettaradice.github.io/100-javascript-days/26-pop-up-video

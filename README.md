@@ -32,3 +32,4 @@
  24. Find Headings https://nicolettaradice.github.io/100-javascript-days/24-find-headings
  25. Animated Nav https://nicolettaradice.github.io/100-javascript-days/25-animated-nav
  26. Pop up Video https://nicolettaradice.github.io/100-javascript-days/26-pop-up-video
+ 27. Palindrome Check https://nicolettaradice.github.io/100-javascript-days/27-palindrome

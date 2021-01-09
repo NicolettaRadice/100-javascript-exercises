@@ -34,3 +34,4 @@
  26. Pop up Video https://nicolettaradice.github.io/100-javascript-days/26-pop-up-video
  27. Palindrome Check https://nicolettaradice.github.io/100-javascript-days/27-palindrome
  28. Pangram Check https://nicolettaradice.github.io/100-javascript-days/28-pangram
+ 29. Numeral to Roman https://nicolettaradice.github.io/100-javascript-days/29-numeral-to-roman

@@ -1,8 +1,7 @@
 # 100-javascript-exercises
- Coding everyday in Javascript for 100 days
- by Nicoletta Radice
+
  
- Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am challenging myself to code in Javascript as much as I can to refresh and broaden my skills.
+Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am challenging myself to code in Javascript as much as I can to refresh and broaden my skills.
  
 
  

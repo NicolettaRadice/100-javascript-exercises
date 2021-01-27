@@ -35,3 +35,4 @@ Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am cha
  28. Pangram Check https://nicolettaradice.github.io/100-javascript-exercises/28-pangram
  29. Numeral to Roman https://nicolettaradice.github.io/100-javascript-exercises/29-numeral-to-roman
  30. Matching Brackets https://nicolettaradice.github.io/100-javascript-exercises/30-matching-brakets
+ 31. Raindrops https://nicolettaradice.github.io/100-javascript-exercises/31-raindrops

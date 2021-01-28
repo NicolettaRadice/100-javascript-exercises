@@ -36,3 +36,5 @@ Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am cha
  29. Numeral to Roman https://nicolettaradice.github.io/100-javascript-exercises/29-numeral-to-roman
  30. Matching Brackets https://nicolettaradice.github.io/100-javascript-exercises/30-matching-brakets
  31. Raindrops https://nicolettaradice.github.io/100-javascript-exercises/31-raindrops
+ 32. Gigaseconds https://nicolettaradice.github.io/100-javascript-exercises/32-gigaseconds
+ 33. Connect Four! https://nicolettaradice.github.io/100-javascript-exercises/33-connect4

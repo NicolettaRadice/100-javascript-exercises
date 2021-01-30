@@ -38,4 +38,5 @@ Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am cha
  31. Raindrops https://nicolettaradice.github.io/100-javascript-exercises/31-raindrops
  32. Gigaseconds https://nicolettaradice.github.io/100-javascript-exercises/32-gigaseconds
  33. Connect Four! https://nicolettaradice.github.io/100-javascript-exercises/33-connect4
- 34. Progress Bar https://nicolettaradice.github.io/100-javascript-exercises/33-connect4
+ 34. Progress Bar https://nicolettaradice.github.io/100-javascript-exercises/34-progress-bar
+ 35. Scroll Indicator https://nicolettaradice.github.io/100-javascript-exercises/33-scroll-indicators

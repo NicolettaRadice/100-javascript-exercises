@@ -41,3 +41,5 @@ Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am cha
  34. Progress Bar https://nicolettaradice.github.io/100-javascript-exercises/34-progress-bar
  35. Scroll Indicator https://nicolettaradice.github.io/100-javascript-exercises/35-scroll-indicators
  36. Sort https://nicolettaradice.github.io/100-javascript-exercises/36-sort
+ 37. Profile card https://nicolettaradice.github.io/100-javascript-exercises/37-profile-card
+ 38. Sort List https://nicolettaradice.github.io/100-javascript-exercises/38-sort-list

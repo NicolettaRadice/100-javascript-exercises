@@ -44,3 +44,4 @@ Inspired by https://jsbeginners.com/javascript-projects-for-beginners/, I am cha
  37. Profile card https://nicolettaradice.github.io/100-javascript-exercises/37-profile-card
  38. Sort List https://nicolettaradice.github.io/100-javascript-exercises/38-sort-list
  39. Drag and drop https://nicolettaradice.github.io/100-javascript-exercises/39-draggable
+ 40. Chat pop up https://nicolettaradice.github.io/100-javascript-exercises/40-pop-up-chat
